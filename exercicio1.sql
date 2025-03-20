@@ -1,5 +1,5 @@
 -- Todos os DADOS aqui vieram de origem fictícia
--- Criar as tabelas corrigidas
+-- Criar as tabelas
 CREATE TABLE musica (
     IDmusica INT PRIMARY KEY,
     nome VARCHAR(50),
